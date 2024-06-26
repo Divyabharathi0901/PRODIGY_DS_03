@@ -1,4 +1,4 @@
-# PRODIGY_DS_03 ### 🚀 Task 3 : Sentiment Analysis on Twitter Data 
+# PRODIGY_DS_03  🚀 Task 3 : Sentiment Analysis on Twitter Data 
 
 This task involved an in-depth analysis of sentiment patterns in Twitter data to gain insights into public opinion and attitudes toward specific topics or brands.
 
